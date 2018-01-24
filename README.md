@@ -1,6 +1,9 @@
 # Overview
+This Demo contains everything necessary to make your own Cozy places classificator, we are using data form Reddit, Cozy / NotCozy base on likes on the posts, between 1-20 is consider not cozy, more than 1000 is consider very cozy bit the comunity.
 
-This repo contains code for the "TensorFlow for poets 2" series of codelabs.
+This code is based on Google developers demo about flowers using Machine learning.
+
+
 
 There are multiple versions of this codelab depending on which version 
 of the tensorflow libraries you plan on using:
